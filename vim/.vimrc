@@ -14,3 +14,4 @@ autocmd FileType make setlocal noexpandtab
 "Turn on status line at the bottom
 set ruler
 set laststatus=2
+autocmd FileType gitcommit setlocal tw=72
