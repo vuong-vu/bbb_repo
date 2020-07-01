@@ -15,3 +15,5 @@ autocmd FileType make setlocal noexpandtab
 set ruler
 set laststatus=2
 autocmd FileType gitcommit setlocal tw=72
+
+set nowrap
